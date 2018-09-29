@@ -1,0 +1,23 @@
+{
+  "name": "phoneshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patdanaif7t/Bulma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patdanaif7t/Bulma/issues"
+  },
+  "homepage": "https://github.com/patdanaif7t/Bulma#readme",
+  "description": ""
+}
